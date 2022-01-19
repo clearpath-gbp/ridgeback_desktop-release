@@ -1,3 +1,28 @@
+## ridgeback_desktop (noetic) - 0.1.3-1
+
+The packages in the `ridgeback_desktop` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic ridgeback_desktop` on `Wed, 19 Jan 2022 00:50:24 -0000`
+
+These packages were released:
+- `ridgeback_desktop`
+- `ridgeback_viz`
+
+Version of package(s) in repository `ridgeback_desktop`:
+
+- upstream repository: https://github.com/ridgeback/ridgeback_desktop
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.24`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## ridgeback_desktop (melodic) - 0.1.3-1
 
 The packages in the `ridgeback_desktop` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic ridgeback_desktop` on `Fri, 14 Jan 2022 20:40:39 -0000`
